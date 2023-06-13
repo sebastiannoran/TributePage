@@ -1,0 +1,28 @@
+main {
+    margin: 30px 8px;
+    padding: 15px;
+    background: #eee6d5;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    background: rgba(189, 169, 136, 0.321);
+}
+
+#img-caption {
+    background: white;
+
+    font-size: 1.5rem;
+}
